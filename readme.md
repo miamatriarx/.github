@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/miamatriarx">
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Fractal" alt="Fractal" width="200px">
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Fractal" alt="Fractal" width="200">
   </a>
 
   <div>
@@ -27,7 +27,7 @@
 
   <h1>
     Hello World!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="24px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="24"/>
   </h1>
 </div>
 
@@ -43,13 +43,13 @@ All software created by Mia Matriarx or by the Matriarx brand are free and open 
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=c04080&ring=40a0a0&fire=c04080&currStreakLabel=40a0a0&currStreakNum=c04080&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en&cache_seconds=60" title="Statistics" alt="Statistics" width="100%"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en&cache_seconds=60" title="Statistics" alt="Statistics" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=c04080&ring=40a0a0&fire=c04080&currStreakLabel=40a0a0&currStreakNum=c04080&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
   </a>
 </p>
 
@@ -158,10 +158,6 @@ If you would like to contribute have a look at our [code of conduct](https://git
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
 
 <img src="https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif" width="100%"/>
-
-<p>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
-</p>
 
 
 https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif
