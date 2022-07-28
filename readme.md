@@ -1,7 +1,9 @@
 # .github 💕
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
+  <p>
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="400px">
+  </p>
 
   <p>
     <a href="https://t.me/miamatriarx">
@@ -21,7 +23,9 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+  </p>
 
   <h1>
     Hello World!
