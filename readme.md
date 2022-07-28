@@ -1,9 +1,9 @@
 # .github 💕
 
 <div align="center">
-  <p>
+  <a href="https://github.com/miamatriarx">
     <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Fractal" alt="Fractal" width="200px">
-  </p>
+  </a>
 
   <div>
     <a href="https://t.me/miamatriarx">
