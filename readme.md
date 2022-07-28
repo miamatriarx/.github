@@ -1,11 +1,9 @@
 # .github 💕
 
 <div align="center">
-  <a href="https://github.com/miamatriarx">
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
-  </a>
+  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
 
-  <div>
+  <p>
     <a href="https://t.me/miamatriarx">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" title="Telegram" alt="Telegram"/>
     </a>
@@ -21,7 +19,7 @@
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white" title="Reddit" alt="Reddit"/>
     </a>
-  </div>
+  </p>
 
   <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
 
@@ -157,9 +155,6 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
 
-<img src="https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif" width="100%"/>
-
-https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy-downsized.gif
-https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif
-https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif
-https://media.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif
+<div align="center">
+  <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif" width="100%"/>
+</div>
