@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/miamatriarx">
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Fractal" alt="Fractal" width="200">
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
   </a>
 
   <div>
@@ -27,7 +27,7 @@
 
   <h1>
     Hello World!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="24"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="24px"/>
   </h1>
 </div>
 
@@ -159,11 +159,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
 <img src="https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif" width="100%"/>
 
-
+https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy-downsized.gif
+https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif
 https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif
-https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif
-https://media.giphy.com/media/5xtDarBFszThqQF1o6A/giphy.gif
-https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy.gif
 https://media.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif
-
-https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif
