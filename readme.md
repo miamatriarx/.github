@@ -1,7 +1,9 @@
 # .github 💕
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif" title="Gear" alt="Gear" width="100%">
+  <p>
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Fractal" alt="Fractal" width="200px">
+  </p>
 
   <div>
     <a href="https://t.me/miamatriarx">
@@ -16,7 +18,7 @@
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=white" title="Discord" alt="Discord"/>
     </a>
-    <a href="https://www.reddit.com/r/matriarx-">
+    <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white" title="Reddit" alt="Reddit"/>
     </a>
   </div>
@@ -157,6 +159,7 @@ If your contribution is not included here then get in [contact](https://github.c
 
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
 
+https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif
 https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif
 https://media.giphy.com/media/5xtDarBFszThqQF1o6A/giphy.gif
 https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy.gif
