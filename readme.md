@@ -77,7 +77,7 @@ All software created by Mia Matriarx or by the Matriarx brand are free and open 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/phalcon/phalcon-original.svg" title="Phalcon" alt="Phalcon" width="40" height="40"/>
@@ -132,18 +132,18 @@ All software created by Mia Matriarx or by the Matriarx brand are free and open 
 
 ## Documentation
 
-[Code of Conduct](https://github.com/miamatriarx/.github/blob/main/code_of_conduct.md)\
-[Support](https://github.com/miamatriarx/.github/blob/main/support.md)\
-[Projects](https://github.com/miamatriarx/.github/projects)\
-[Wiki](https://github.com/miamatriarx/.github/wiki)\
-[Contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md)\
-[Security](https://github.com/miamatriarx/.github/blob/main/security.md)\
-[Changelog](https://github.com/miamatriarx/.github/blob/main/changelog.md)\
-[Release Notes](https://github.com/miamatriarx/.github/blob/main/release.md)\
-[Authors](https://github.com/miamatriarx/.github/blob/main/authors.md)\
-[Contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md)\
-[Acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md)\
-[License](https://github.com/miamatriarx/.github/blob/main/license.md)
+✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/code_of_conduct.md)\
+✔️ [Support](https://github.com/miamatriarx/.github/blob/main/support.md)\
+✔️ [Projects](https://github.com/miamatriarx/.github/projects)\
+✔️ [Wiki](https://github.com/miamatriarx/.github/wiki)\
+✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md)\
+✔️ [Security](https://github.com/miamatriarx/.github/blob/main/security.md)\
+✔️ [Changelog](https://github.com/miamatriarx/.github/blob/main/changelog.md)\
+✔️ [Release Notes](https://github.com/miamatriarx/.github/blob/main/release.md)\
+✔️ [Authors](https://github.com/miamatriarx/.github/blob/main/authors.md)\
+✔️ [Contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md)\
+✔️ [Acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md)\
+✔️ [License](https://github.com/miamatriarx/.github/blob/main/license.md)
 
 ## Contributors
 
@@ -151,13 +151,18 @@ A special thank you to all the wonderful [authors](https://github.com/miamatriar
 
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
 
-If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md).
-
-If your contribution is not included here then get in [contact](https://github.com/miamatriarx/.github/blob/main/support.md) or submit a pull request.
+If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
 
 ## License
 
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
+
+<img src="https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif" width="100%"/>
+
+<p>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
+</p>
+
 
 https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif
 https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif
@@ -166,8 +171,3 @@ https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy.gif
 https://media.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif
 
 https://media.giphy.com/media/fJ9GYMmcfh8K5oOBcu/giphy.gif
-
-
-<p>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
-</p>
