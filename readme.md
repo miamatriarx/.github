@@ -26,9 +26,11 @@
   </p>
 
   <h1>
-    .github 💕
+    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
   </h1>
 </div>
+
+# .github 💕
 
 A default repository containing template configurations, documentation and community health files.
 
@@ -36,7 +38,46 @@ A default repository containing template configurations, documentation and commu
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
 </p>
 
-## Mia Matriarx 👩‍💻
+## Contact
+✔️ [Email](mailto:mia@matriarx.io)\
+✔️ [Telegram](https://t.me/miamatriarx)\
+✔️ [Twitter](https://twitter.com/miamatriarx)\
+✔️ [LinkedIn](https://linkedin.com/miamatriarx)\
+✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
+✔️ [GitHub](https://github.com/miamatriarx)
+
+## Community
+✔️ [matriarx.io](https://matriarx.io)\
+✔️ [Discord](https://discord.gg/matriarx)\
+✔️ [Reddit](https://www.reddit.com/r/matriarx)\
+✔️ [GitHub](https://github.com/matriarx)
+
+## Documentation
+
+✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/code_of_conduct.md)\
+✔️ [Support](https://github.com/miamatriarx/.github/blob/main/support.md)\
+✔️ [Projects](https://github.com/miamatriarx/.github/projects)\
+✔️ [Wiki](https://github.com/miamatriarx/.github/wiki)\
+✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md)\
+✔️ [Security](https://github.com/miamatriarx/.github/blob/main/security.md)\
+✔️ [Changelog](https://github.com/miamatriarx/.github/blob/main/changelog.md)\
+✔️ [Release Notes](https://github.com/miamatriarx/.github/blob/main/release.md)\
+✔️ [Authors](https://github.com/miamatriarx/.github/blob/main/authors.md)\
+✔️ [Contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md)\
+✔️ [Acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md)\
+✔️ [License](https://github.com/miamatriarx/.github/blob/main/license.md)
+
+## Contributors
+
+A special thank you to all the wonderful [authors](https://github.com/miamatriarx/.github/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md) that contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
+
+![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
+
+## License
+
+[MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
+
+## 👩‍💻 Mia Matriarx 💕
 
 <p>
   <a href="https://github.com/miamatriarx">
@@ -112,42 +153,3 @@ A default repository containing template configurations, documentation and commu
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 </p>
-
-## Contact
-✔️ [Email](mailto:mia@matriarx.io)\
-✔️ [Telegram](https://t.me/miamatriarx)\
-✔️ [Twitter](https://twitter.com/miamatriarx)\
-✔️ [LinkedIn](https://linkedin.com/miamatriarx)\
-✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
-✔️ [GitHub](https://github.com/miamatriarx)
-
-## Community
-✔️ [matriarx.io](https://matriarx.io)\
-✔️ [Discord](https://discord.gg/matriarx)\
-✔️ [Reddit](https://www.reddit.com/r/matriarx)\
-✔️ [GitHub](https://github.com/matriarx)
-
-## Documentation
-
-✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/code_of_conduct.md)\
-✔️ [Support](https://github.com/miamatriarx/.github/blob/main/support.md)\
-✔️ [Projects](https://github.com/miamatriarx/.github/projects)\
-✔️ [Wiki](https://github.com/miamatriarx/.github/wiki)\
-✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md)\
-✔️ [Security](https://github.com/miamatriarx/.github/blob/main/security.md)\
-✔️ [Changelog](https://github.com/miamatriarx/.github/blob/main/changelog.md)\
-✔️ [Release Notes](https://github.com/miamatriarx/.github/blob/main/release.md)\
-✔️ [Authors](https://github.com/miamatriarx/.github/blob/main/authors.md)\
-✔️ [Contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md)\
-✔️ [Acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md)\
-✔️ [License](https://github.com/miamatriarx/.github/blob/main/license.md)
-
-## Contributors
-
-A special thank you to all the wonderful [authors](https://github.com/miamatriarx/.github/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md) that contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
-
-![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
-
-## License
-
-[MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
