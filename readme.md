@@ -83,7 +83,7 @@ A special thank you to all the wonderful [authors](https://github.com/miamatriar
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=c04080&ring=40a0a0&fire=c04080&currStreakLabel=40a0a0&currStreakNum=c04080&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=40a0a0&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
   </a>
 </p>
 
