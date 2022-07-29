@@ -5,5 +5,5 @@
 ✔️ [github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com)\
 ✔️ [github.com/devicons](https://github.com/devicons)\
 ✔️ [komarev.com](https://komarev.com)\
-✔️ [giphy.com](https://media.giphy.com)\
+✔️ [giphy.com](https://giphy.com)\
 ✔️ [@xponentialdesign](https://giphy.com/xponentialdesign)
