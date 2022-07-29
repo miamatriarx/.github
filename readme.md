@@ -1,6 +1,8 @@
 <div align="center">
   <p>
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    <a href="https://github.com/miamatriarx">
+      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    </a>
   </p>
 
   <p>
@@ -22,12 +24,12 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
   </p>
 
-  <h1>
-    .github 💕
-  </h1>
+  <h1>.github 💕</h1>
 </div>
 
 A default repository containing template configurations, documentation and community health files.
