@@ -26,11 +26,9 @@
   </p>
 
   <h1>
-    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
+    .github 💕
   </h1>
 </div>
-
-# .github 💕
 
 A default repository containing template configurations, documentation and community health files.
 
@@ -42,7 +40,7 @@ A default repository containing template configurations, documentation and commu
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en&cache_seconds=60" title="Statistics" alt="Statistics" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
   </a>
 </p>
 
@@ -54,7 +52,7 @@ A default repository containing template configurations, documentation and commu
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&layout=compact&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en&cache_seconds=60" title="Languages" alt="Languages" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&layout=compact&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Languages" alt="Languages" width="100%"/>
   </a>
 </p>
 
