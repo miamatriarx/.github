@@ -1,5 +1,3 @@
-# .github 💕
-
 <div align="center">
   <p>
     <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
@@ -32,6 +30,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
   </h1>
 </div>
+
+# .github 💕
 
 A default repository containing reusable configurations, documentation and community health files.
 
