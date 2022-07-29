@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="200px">
+    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
   </p>
 
   <p>
@@ -26,8 +26,7 @@
   </p>
 
   <h1>
-    Welcome!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
+    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
   </h1>
 </div>
 
@@ -158,5 +157,5 @@ If you would like to contribute have a look at our [code of conduct](https://git
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif" width="280px"/>
 </div>
