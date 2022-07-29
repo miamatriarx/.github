@@ -1,3 +1,7 @@
+# .github 💕
+
+A default repository containing template configurations, documentation and community health files.
+
 <div align="center">
   <p>
     <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
@@ -33,10 +37,6 @@
 <p>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
 </p>
-
-# .github 💕
-
-A default repository containing reusable configurations, documentation and community health files.
 
 ## Mia Matriarx 👩‍💻
 
@@ -146,16 +146,10 @@ A default repository containing reusable configurations, documentation and commu
 
 ## Contributors
 
-A special thank you to all the wonderful [authors](https://github.com/miamatriarx/.github/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md) that contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md).
+A special thank you to all the wonderful [authors](https://github.com/miamatriarx/.github/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md) that contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
 
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
-
-If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
 
 ## License
 
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized.gif" width="280px"/>
-</div>
