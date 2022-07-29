@@ -11,21 +11,21 @@
 *This is a call to action - Join me and help me. By myself I can only do so much, but together we can accomplish anything and make the difference the world so desperately needs.*
 
 *Love,*\
-*Mia*
+*Mia 💕*
 
-## Purpose
+## ❔ Purpose ❓
 
 *To create an altruistic global society with the united purpose of ameliorating the quality of all life.*
 
-## Mission
+## ✨ Mission 💫
 
 *Creating systems that add value to people's lives by means of empowerment, freedom, education, awareness and support.*
 
-## Vision
+## ❤️ Vision 🔮
 
 *To create an altruistic global society with the united purpose of ameliorating the quality of all life and spearheading humanity into the next era of our evolution as a holistic collective.*
 
-## Values
+## 🎉 Values 🎊
 
 ✔️ Authenticity\
 ✔️ Integrity\
@@ -40,18 +40,18 @@
 ✔️ Compassion\
 ✔️ Action
 
-## Strategy
+## 🚀 Strategy 👻
 
 Stay agile, adapt and pivot as necessary depending on a variety of variables.
 
-### Goals
+### ⚡ Goals 🚧
 
 ✔️ Set up the infrastructure and DevOps.\
 ✔️ Create the systems.\
 ✔️ Secure funding.\
 ✔️ Build community.
 
-### Objectives
+### ⚡ Objectives 🚧
 
 ✔️ Set up secure and scalable infrastructure.\
 ✔️ Set up DevOps, CI/CD and 3rd party integrations and automate everything that can be automated.\
@@ -62,7 +62,7 @@ Stay agile, adapt and pivot as necessary depending on a variety of variables.
 ✔️ Secure funding by monotizing parts of the modules or systems, or through donations, sponsorships or another means, in order to sustain the infrastructure, operations and employees, as well as to create larger and more impactful charitable systems that require more resources.\
 ✔️ Build community with people who are passionate about and inspired by our purpose and vision.
 
-## Community
+## 🏰 Community 🌈
 
 ✔️ Authenticity - Be honest, be genuine, be trustworthy, be vulnerable, be yourself; There's no such thing as the ideal person, we cherish and celebrate diversity and what makes you special and unique.\
 ✔️ Integrity - Be wholesome, be honourable, be responsible towards you commitments, uphold justice, don't be morally corrupt, do the right thing.\
@@ -77,17 +77,17 @@ Stay agile, adapt and pivot as necessary depending on a variety of variables.
 ✔️ Compassion - Love and care for yourself, take care of yourself, be kind towards yourself, also do the same for others, be sympathetic, be mindful of how your actions or words might make others feel, be aware of the suffering of others and try to relieve it if possible, be supportive towards others.\
 ✔️ Action - Take the initiative, do something, don't just complain or moan or point fingers or expect that someone else will fix it, take action, take the lead, nothing changes without taking practical and tangible action.
 
-## Contributing
+## 💎 Contributing 🚀
 
 ✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/.github/blob/main/license.md) license unless otherwise specified.\
-✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/.github/blob/main/license.md) and in doing so you void all claims to any intellectual property or copyright without any exceptions.
-✔️ Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)) is enforced on all repositories in order to verify that you made that commit and that you have agreed to our terms.
-✔️ Any unverified or unsigned commit will be rejected.
+✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/.github/blob/main/license.md) and in doing so you void all claims to any intellectual property or copyright without any exceptions.\
+✔️ Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)) is enforced on all repositories in order to verify that you made that commit and that you have agreed to our terms.\
+✔️ For more information have a look at our [contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md) documentation.
 
-## Policy
+## ❕ Policy ❗
 
 We have zero tolerance for dishonesty, sexism, sexual harassment, racism, homophobia, transphobia, xenophobia, discrimination, abuse or violence, or any destructive, toxic or hurtful towards others.  We welcome everyone, from anywhere, from any background, from any circumstances, from any culture, from any religion, regardless of any sexual orientation or gender identity, regardless of any mental health issues or neurodivergency, regardless of any disability, this is a safe space for everyone.  We especially support women and LGBTQ members and won't tolerate any sort of behaviour that undermines equality.  We expect you to treat others with respect, maturity, acceptance, compassion and kindness.
 
-## Misconduct
+## ‼️ Misconduct ⁉️
 
-Our policy applies to everyone irrespective of who they are, if a person's behaviour or actions violate it, or if they are being disrespectful, abusive or disruptive in any other way, get in contact and report it so they can be removed from the community.
+Our policy applies to everyone irrespective of who they are, if a person's behaviour or actions violate it, or if they are being disrespectful, abusive or disruptive in any other way, get in [contact](https://github.com/miamatriarx/.github/blob/main/support.md) and report it so they can be removed from the community.
