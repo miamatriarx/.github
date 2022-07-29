@@ -1,3 +1,3 @@
 # Authors 💕
 
-💕 Mia Matriarx (@miamatriarx)
+👩‍💻 Mia Matriarx 💕
