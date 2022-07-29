@@ -26,18 +26,18 @@
   </p>
 
   <h1>
-    Hello World!
+    Welcome!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
   </h1>
 </div>
 
-# .github 💕
-
-A default repository containing reusable configurations, documentation and community health files.
-
 <p>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
 </p>
+
+# .github 💕
+
+A default repository containing reusable configurations, documentation and community health files.
 
 ## Mia Matriarx 👩‍💻
 
