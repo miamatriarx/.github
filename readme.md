@@ -24,13 +24,21 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
   </p>
+
+  <p>
+    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="16px"/>
+  </p>
 </div>
 
-# .github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
+<p>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
+</p>
+
+# .github 💕
 
 A default repository containing template configurations, documentation and community health files.
 
-## 👩‍💻 Mia Matriarx 💕
+## Mia Matriarx 👩‍💻
 
 <p>
   <a href="https://github.com/miamatriarx">
@@ -145,7 +153,3 @@ A special thank you to all the wonderful [authors](https://github.com/miamatriar
 ## License
 
 [MIT](https://github.com/miamatriarx/.github/blob/main/license.md)
-
-<p>
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
-</p>
