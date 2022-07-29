@@ -24,7 +24,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
+    <a href="https://github.com/miamatriarx/.github">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
   </p>
