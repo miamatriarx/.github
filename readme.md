@@ -58,7 +58,7 @@ A default repository containing template configurations, documentation and commu
 ✔️ [GitHub](https://github.com/miamatriarx)
 
 ## 🏰 Community 🌈
-✔️ [matriarx.io](https://matriarx.io)\
+✔️ [Matriarx](https://matriarx.io)\
 ✔️ [Discord](https://discord.gg/matriarx)\
 ✔️ [Reddit](https://www.reddit.com/r/matriarx)\
 ✔️ [GitHub](https://github.com/matriarx)

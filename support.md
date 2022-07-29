@@ -11,7 +11,7 @@ If you need any support, have any questions or concerns, would like to report so
 ✔️ [GitHub](https://github.com/miamatriarx)
 
 ## Community
-✔️ [matriarx.io](https://matriarx.io)\
+✔️ [Matriarx](https://matriarx.io)\
 ✔️ [Discord](https://discord.gg/matriarx)\
 ✔️ [Reddit](https://www.reddit.com/r/matriarx)\
 ✔️ [GitHub](https://github.com/matriarx)
