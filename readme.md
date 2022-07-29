@@ -38,8 +38,8 @@ A default repository containing template configurations, documentation and commu
 
 ✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/code_of_conduct.md)\
 ✔️ [Support](https://github.com/miamatriarx/.github/blob/main/support.md)\
-✔️ [Projects](https://github.com/miamatriarx/.github/projects)\
 ✔️ [Discussions](https://github.com/miamatriarx/.github/discussions)\
+✔️ [Projects](https://github.com/miamatriarx/.github/projects)\
 ✔️ [Wiki](https://github.com/miamatriarx/.github/wiki)\
 ✔️ [Docs](https://github.com/miamatriarx/.github/blob/main/docs)\
 ✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/contributing.md)\
