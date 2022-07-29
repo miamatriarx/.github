@@ -24,17 +24,13 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
   </p>
-
-  <p>
-    Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
-  </p>
 </div>
 
-# .github 💕
+# .github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" title="Wave" alt="Wave" width="28px"/>
 
 A default repository containing template configurations, documentation and community health files.
 
-## Mia Matriarx 👩‍💻
+## 👩‍💻 Mia Matriarx 💕
 
 <p>
   <a href="https://github.com/miamatriarx">
