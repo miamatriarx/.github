@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="400px">
+    <img src="https://media.giphy.com/media/BaBXfoDOvq6tRyK2L7/giphy.gif" title="Engineer" alt="Engineer" width="200px">
   </p>
 
   <p>
@@ -35,10 +35,8 @@
 
 A default repository containing reusable configurations, documentation and community health files.
 
-All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/.github/blob/main/license.md) license unless otherwise specified.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" title="Art" alt="Art" width="100%">
+  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="100%">
 </div>
 
 ## Mia Matriarx 👩‍💻
