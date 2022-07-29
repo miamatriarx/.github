@@ -30,27 +30,13 @@
   </h1>
 </div>
 
-# .github 💕
-
-A default repository containing template configurations, documentation and community health files.
-
 <p>
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23101418&textColor=%23ff80c0&qColor=%23ff80c0&aColor=%2360e0e0&codeColor=%2360e0e00&borderColor=%23202428" width="100%" height="60px"/>
 </p>
 
-## Contact
-✔️ [Email](mailto:mia@matriarx.io)\
-✔️ [Telegram](https://t.me/miamatriarx)\
-✔️ [Twitter](https://twitter.com/miamatriarx)\
-✔️ [LinkedIn](https://linkedin.com/miamatriarx)\
-✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
-✔️ [GitHub](https://github.com/miamatriarx)
+# .github 💕
 
-## Community
-✔️ [matriarx.io](https://matriarx.io)\
-✔️ [Discord](https://discord.gg/matriarx)\
-✔️ [Reddit](https://www.reddit.com/r/matriarx)\
-✔️ [GitHub](https://github.com/matriarx)
+A default repository containing template configurations, documentation and community health files.
 
 ## Documentation
 
@@ -66,6 +52,20 @@ A default repository containing template configurations, documentation and commu
 ✔️ [Contributors](https://github.com/miamatriarx/.github/blob/main/contributors.md)\
 ✔️ [Acknowledgements](https://github.com/miamatriarx/.github/blob/main/acknowledgements.md)\
 ✔️ [License](https://github.com/miamatriarx/.github/blob/main/license.md)
+
+## Contact
+✔️ [Email](mailto:mia@matriarx.io)\
+✔️ [Telegram](https://t.me/miamatriarx)\
+✔️ [Twitter](https://twitter.com/miamatriarx)\
+✔️ [LinkedIn](https://linkedin.com/miamatriarx)\
+✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
+✔️ [GitHub](https://github.com/miamatriarx)
+
+## Community
+✔️ [matriarx.io](https://matriarx.io)\
+✔️ [Discord](https://discord.gg/matriarx)\
+✔️ [Reddit](https://www.reddit.com/r/matriarx)\
+✔️ [GitHub](https://github.com/matriarx)
 
 ## Contributors
 
