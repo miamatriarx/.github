@@ -3,7 +3,7 @@
 <div align="center">
   <p>Default documentation & community health files for all repositories.</p>
 
-  <p>Created with sprinkles of ✨ and oodles of 💕</p>
+  <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
