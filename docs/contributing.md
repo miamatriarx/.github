@@ -62,7 +62,7 @@ We use conventional commits in order to automatically generate the version, chan
 ✔️ build - Changes to the build.\
 ✔️ ci - Changes to the continuous integration.\
 ✔️ cd - Changes to the continuous deployment.\
-✔️ fix - A bug fix.\
+✔️ fix - A bugfix.\
 ✔️ deprecate - Changes to deprecate functionality.\
 ✔️ remove - Changes that removed functionality.\
 ✔️ revert - A rollback.\
