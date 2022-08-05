@@ -1,13 +1,19 @@
 <h1 align="center">🧚🏻‍♀️✨ .github 🏰💕</h1>
 
 <div align="center">
-  <p>Default documentation & community health files for all repositories.</p>
+  <p>Default documentation & community health files for all repositories 🎉</p>
 
   <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
   </p>
 </div>
