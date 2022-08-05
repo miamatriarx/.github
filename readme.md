@@ -3,13 +3,13 @@
 <div align="center">
   <p>Default documentation & community health files for all repositories.</p>
 
+  <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
+
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
   </p>
-
-  <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
 </div>
 
 ## 📚 Documentation 🔮
