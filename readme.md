@@ -12,7 +12,7 @@
   </p>
 </div>
 
-## 📚 Documentation 🔮
+## 📚 Documentation 🚀
 
 ✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
 ✔️ [Support](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
