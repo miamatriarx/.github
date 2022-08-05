@@ -26,14 +26,6 @@
 ✔️ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
 ✔️ [License](https://github.com/miamatriarx/.github/blob/main/license)
 
-## ‼️ License ⁉️
-
-<p>
-  <a href="https://github.com/miamatriarx/.github/blob/main/license">
-    <img src="https://img.shields.io/github/license/miamatriarx/.github?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
-  </a>
-</p>
-
 <div align="center">
   <h1>🧚🏻‍♀️✨ Mia Matriarx 🏰💕</h1>
 
