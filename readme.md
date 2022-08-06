@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ .github ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>Default documentation & community health files for all repositories 🎉</p>
+  <p>🔮 Default documentation & community health files for all repositories 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
@@ -31,6 +31,22 @@
 🪄✨ [Pull Request Template](https://github.com/miamatriarx/.github/blob/main/.github/pull_request_template.md)\
 🪄✨ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
 🪄✨ [License](https://github.com/miamatriarx/.github/blob/main/license)
+
+## 🧚🏻‍♀️✨ Contributors 💎🚀
+
+Thank you to all the [authors](https://github.com/miamatriarx/.github/blob/main/docs/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/docs/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/docs/acknowledgements.md).
+
+![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
+
+If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
+
+## 🧚🏻‍♀️✨ License ✨🚀
+
+<p>
+  <a href="https://github.com/miamatriarx/.github/blob/main/license">
+    <img src="https://img.shields.io/github/license/miamatriarx/.github?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
+  </a>
+</p>
 
 <div align="center">
   <h1>🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
