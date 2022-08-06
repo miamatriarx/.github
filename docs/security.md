@@ -1,4 +1,4 @@
-# 🧚🏻‍♀️🪄✨ Security ✨🏰💕
+# 🧚🏻‍♀️✨ Security ✨🧚🏻‍♀️🦄🔮🏰💕
 
 We try to keep our systems secure and to protect our users, but software is volatile and 💩 happens.  If you discover a security vulnerability notify us immediately so we can take care of it.
 
