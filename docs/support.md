@@ -1,4 +1,4 @@
-# 🧚🏻‍♀️✨ Support 🏰💕
+# 🧚🏻‍♀️🪄✨ Support ✨🏰💕
 
 Would you like some help 🤷🏻‍♀️
 
@@ -8,7 +8,7 @@ Would you like to give us some feedback 💕
 
 Get in contact ✨
 
-## 🧚🏻‍♀️✨ Mia Matriarx 🏰💕
+## 🧚🏻‍♀️🪄✨ Mia Matriarx ✨🏰💕
 
 <p>
   <a href="https://matriarx.io">
@@ -46,7 +46,7 @@ Get in contact ✨
   </a>
 </p>
 
-## 🧚🏻‍♀️✨ Matriarx 🏰💕
+## 🧚🏻‍♀️🪄✨ Matriarx ✨🏰💕
 
 <p>
   <a href="https://matriarx.io">
