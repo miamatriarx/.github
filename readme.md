@@ -32,14 +32,6 @@
 🪄✨ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
 🪄✨ [License](https://github.com/miamatriarx/.github/blob/main/license)
 
-## 🧚🏻‍♀️✨ Contributors 💎🚀
-
-Thank you to all the [authors](https://github.com/miamatriarx/.github/blob/main/docs/authors.md) and [contributors](https://github.com/miamatriarx/.github/blob/main/docs/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/.github/blob/main/docs/acknowledgements.md).
-
-![Contributors](https://contrib.rocks/image?repo=miamatriarx/.github)
-
-If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
-
 ## 🧚🏻‍♀️✨ License ✨🚀
 
 <p>
@@ -101,7 +93,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/.github" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
