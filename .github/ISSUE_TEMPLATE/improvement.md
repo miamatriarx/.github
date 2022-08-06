@@ -6,7 +6,7 @@ labels: triage, improvement
 assignees: miamatriarx
 ---
 
-# 🧚🏻‍♀️✨ Improvement Request ✨🧚🏻‍♀️🦄🔮🏰💕
+## 🧚🏻‍♀️✨ Improvement Request ✨🧚🏻‍♀️🦄🔮🏰💕
 
 **What would you like to improve?**
 Explain the improvement and the motivation and context, how would it improve or add value to the project.

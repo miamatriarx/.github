@@ -6,7 +6,7 @@ labels: triage
 assignees: miamatriarx
 ---
 
-# 🧚🏻‍♀️✨ Issue Report ✨🧚🏻‍♀️🦄🔮🏰💕
+## 🧚🏻‍♀️✨ Issue Report ✨🧚🏻‍♀️🦄🔮🏰💕
 
 Before creating a new issue, have a look at the existing ones to prevent duplicates.
 

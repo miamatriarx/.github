@@ -6,7 +6,7 @@ labels: triage, bug
 assignees: miamatriarx
 ---
 
-# 🧚🏻‍♀️✨ Bug Report ✨🧚🏻‍♀️🦄🔮🏰💕
+## 🧚🏻‍♀️✨ Bug Report ✨🧚🏻‍♀️🦄🔮🏰💕
 
 Before creating a new issue, have a look at the existing ones to prevent duplicates.
 
