@@ -1,8 +1,6 @@
 # 🧚🏻‍♀️✨ Pull Request ✨🧚🏻‍♀️🦄🔮🏰💕
 
-💎🚀
-
-## 🧚🏻‍♀️✨ Description 🎉✨
+## 🧚🏻‍♀️✨ Description 💎🚀
 
 Provide a summary of the changes and the motivation and context.
 
@@ -10,7 +8,7 @@ Provide a summary of the changes and the motivation and context.
 
 Provide links to projects, issues or discussions related to the changes.
 
-## 🧚🏻‍♀️✨ Detail 📚🔮
+## 🧚🏻‍♀️✨ Detail 🎨🎶
 
 Provide detail of the changes that were made.
 
