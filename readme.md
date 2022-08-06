@@ -1,9 +1,9 @@
-<h1 align="center">🧚🏻‍♀️✨ .github 🏰💕</h1>
+<h1 align="center">🧚🏻‍♀️✨ .github ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
   <p>Default documentation & community health files for all repositories 🎉</p>
 
-  <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
+  <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -18,24 +18,28 @@
   </p>
 </div>
 
-## 📚 Documentation 🔮
+## 🧚🏻‍♀️✨ Documentation 📚🔮
 
-✔️ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
-✔️ [Support](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
-✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md)\
-✔️ [Security](https://github.com/miamatriarx/.github/blob/main/docs/security.md)\
-✔️ [Bug Report Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/bug.md)\
-✔️ [Feature Request Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/feature.md)\
-✔️ [Improvement Suggestion Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/improvement.md)\
-✔️ [Default Issue Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/other.md)\
-✔️ [Pull Request Template](https://github.com/miamatriarx/.github/blob/main/.github/pull_request_template.md)\
-✔️ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
-✔️ [License](https://github.com/miamatriarx/.github/blob/main/license)
+🪄✨ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
+🪄✨ [Support](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
+🪄✨ [Contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md)\
+🪄✨ [Security](https://github.com/miamatriarx/.github/blob/main/docs/security.md)\
+🪄✨ [Bug Report Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/bug.md)\
+🪄✨ [Feature Request Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/feature.md)\
+🪄✨ [Improvement Suggestion Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/improvement.md)\
+🪄✨ [Default Issue Template](https://github.com/miamatriarx/.github/blob/main/.github/ISSUE_TEMPLATE/other.md)\
+🪄✨ [Pull Request Template](https://github.com/miamatriarx/.github/blob/main/.github/pull_request_template.md)\
+🪄✨ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
+🪄✨ [License](https://github.com/miamatriarx/.github/blob/main/license)
+
+<h1 align="center">🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <h1>🧚🏻‍♀️✨ Mia Matriarx 🏰💕</h1>
+  <p>✨🧚🏻‍♀️👩🏻‍🎨👩🏻‍💻👩🏻‍🔬👸🏻🦄🔮🏰💕</p>
 
-  <p><i>🧚🏻‍♀️✨👩🏻‍🎨👩🏻‍💻👩🏻‍🔬💕 creating 🎨🏰 with sprinkles of ✨ and oodles of 💕</i></p>
+  <p>🏳️‍🌈🏳️‍⚧️</p>
+
+  <p><i>🧚🏻‍♀️✨ Creating things with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -103,7 +107,7 @@
     </a>
   </p>
 
-  <h2>🧚🏻‍♀️✨ Matriarx 🏰💕</h2>
+  <h2>🧚🏻‍♀️✨ Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h2>
 
   <p>
     <a href="https://matriarx.io">
