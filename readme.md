@@ -32,9 +32,9 @@
 🪄✨ [Funding](https://github.com/miamatriarx/.github/blob/main/.github/funding.yaml)\
 🪄✨ [License](https://github.com/miamatriarx/.github/blob/main/license)
 
-<h1 align="center">🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
-
 <div align="center">
+  <h1>🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
+
   <p>✨🧚🏻‍♀️👩🏻‍🎨👩🏻‍💻👩🏻‍🔬👸🏻🦄🔮🏰💕</p>
 
   <p>🏳️‍🌈🏳️‍⚧️</p>
