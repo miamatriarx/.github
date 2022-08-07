@@ -12,27 +12,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx/.github">
-      <img src="https://img.shields.io/github/forks/miamatriarx/.github?logo=github&label=Forks&color=c04080&logoColor=ffffff" title="Forks" alt="Forks"/>
-    </a>
-    <a href="https://github.com/miamatriarx/.github">
-      <img src="https://img.shields.io/github/stars/miamatriarx/.github?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
-    </a>
-    <a href="https://github.com/miamatriarx/.github">
-      <img src="https://img.shields.io/github/watchers/miamatriarx/.github?logo=github&label=Watchers&color=c04080&logoColor=ffffff" title="Watchers" alt="Watchers"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx/.github">
-      <img src="https://img.shields.io/github/v/release/miamatriarx/.github.svg?logo=github&label=Release&include_prereleases&sort=semver&display_name=tag&color=c04080&logoColor=ffffff" title="Release" alt="Release">
-    </a>
-    <a href="https://github.com/miamatriarx/.github/actions">
-      <img src="https://img.shields.io/github/release-date/miamatriarx/.github?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
@@ -40,91 +19,6 @@
     <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 </div>
-
-## 🧚🏻‍♀️✨ Repository 📚🚀
-
-<p>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/contributors/miamatriarx/.github?logo=github&label=Contributors&color=c04080&logoColor=ffffff" title="Contributors" alt="Contributors"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-  <img src="https://img.shields.io/github/last-commit/miamatriarx/.github?logo=github&label=Latest+Commit&color=c04080&logoColor=ffffff" title="Latest Commit" alt="Latest Commit"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/languages/count/miamatriarx/.github?logo=github&label=Languages&color=c04080&logoColor=ffffff" title="Languages" alt="Languages"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/languages/top/miamatriarx/.github?logo=github&color=c04080&logoColor=ffffff" title="Top Language" alt="Top Language"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commits-since/miamatriarx/.github/latest?logo=github&label=Release+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Release Commits" alt="Release Commits"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commits-since/miamatriarx/.github/latest?logo=github&label=Prerelease+Commits&include_prereleases&sort=semver&color=c04080&logoColor=ffffff" title="Prerelease Commits" alt="Release Commits"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commits-since/miamatriarx/.github/latest?logo=github&label=Tag+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Tag Commits" alt="Tag Commits"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commit-activity/m/miamatriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/.github?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/downloads/miamatriarx/.github/total?logo=github&label=Downloads&color=c04080&logoColor=ffffff" title="Downloads" alt="Downloads"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/directory-file-count/miamatriarx/.github?logo=github&label=Files&color=c04080&logoColor=ffffff" title="Files" alt="Files"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/repo-size/miamatriarx/.github?logo=github&label=Size&color=c04080&logoColor=ffffff" title="Size" alt="Size"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github">
-    <img src="https://img.shields.io/github/languages/code-size/miamatriarx/.github?logo=github&label=Code+Size&color=c04080&logoColor=ffffff" title="Code Size" alt="Code Size"/>
-  </a>
-</p>
-
-## 🧚🏻‍♀️✨ Project 📚🎨
-
-<p>
-  <a href="https://github.com/miamatriarx/.github/discussions">
-    <img src="https://img.shields.io/github/discussions/miamatriarx/.github?logo=github&label=Discussions&color=c04080&logoColor=ffffff" title="Discussions" alt="Discussions"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github/milestones">
-    <img src="https://img.shields.io/github/milestones/all/miamatriarx/.github?logo=github&label=Milestones&color=c04080&logoColor=ffffff" title="Milestones" alt="Milestones"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github/issues">
-    <img src="https://img.shields.io/github/issues-raw/miamatriarx/.github?logo=github&label=Issues&color=c04080&logoColor=ffffff" title="Issues" alt="Issues"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/.github?logo=github&label=Pull+Requests&color=c04080&logoColor=ffffff" title="Pull Requests" alt="Pull Requests"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx/.github/milestones">
-    <img src="https://img.shields.io/github/milestones/closed/miamatriarx/.github?logo=github&label=Closed+Milestones&color=40a0a0&logoColor=ffffff" title="Closed Milestones" alt="Closed Milestones"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github/issues">
-    <img src="https://img.shields.io/github/issues-closed-raw/miamatriarx/.github?logo=github&label=Closed+Issues&color=40a0a0&logoColor=ffffff" title="Closed Issues" alt="Closed Issues"/>
-  </a>
-  <a href="https://github.com/miamatriarx/.github/pulls">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/miamatriarx/.github?logo=github&label=Closed+Pull+Requests&color=40a0a0&logoColor=ffffff" title="Closed Pull Requests" alt="Closed Pull Requests"/>
-  </a>
-</p>
 
 ## 🧚🏻‍♀️✨ Documentation 📚🔮
 
@@ -146,14 +40,6 @@ You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [
 I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to make cool things for people.  It brings me joy to create things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
 
 At the cost of a coffee you can help make the world a better place ✨💕
-
-## 🧚🏻‍♀️✨ License ✨💕
-
-<p>
-  <a href="https://github.com/miamatriarx/.github/blob/main/license">
-    <img src="https://img.shields.io/github/license/miamatriarx/.github?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
-  </a>
-</p>
 
 <div align="center">
   <h1>🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
