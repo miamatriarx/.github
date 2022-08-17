@@ -31,16 +31,6 @@
 🪄✨ [Contact](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/miamatriarx/.github/blob/main/license)
 
-## 🧚🏻‍♀️✨ Support ✨💕
-
-🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🔮✨
-
-Have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic <a href="https://github.com/sponsors/miamatriarx">rewards</a> you can earn by supporting me ✨🧚🏻‍♀️
-
-I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
-
-At the cost of a coffee you can help make the world a better place ✨💕
-
 <div align="center">
   <h1>🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
@@ -149,8 +139,6 @@ At the cost of a coffee you can help make the world a better place ✨💕
       <img src="https://img.shields.io/badge/Donate-40a0a0?logo=bunq&logoColor=ffffff" title="Donate" alt="Donate"/>
     </a>
   </p>
-
-  <p>🧚🏻‍♀️✨ Have a look at the fantastic <a href="https://github.com/sponsors/miamatriarx">rewards</a> 🔮✨</p>
 </div>
 
 <p>
